@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/akashnkumar1" target="blank"><img src="https://img.shields.io/twitter/follow/akashnkumar1?logo=twitter&style=for-the-badge" alt="akashnkumar1" /></a> </p>
 
-- 🌱 I’m currently learning **Spring, Hibernate**
+- 💼 I’m currently Working **Java, Spring Boot, Microservices, Apache Kafka**
+
+- 🌱 I’m currently Learning **Angular**
 
 - 📝 I regularly write articles on [datarefuel.blogspot.com](datarefuel.blogspot.com)
 
