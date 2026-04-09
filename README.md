@@ -2,17 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashnkumar1&label=Profile%20views&color=0e75b6&style=flat" alt="akashnkumar1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashnkumar1" alt="akashnkumar1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/akashnkumar1" target="blank"><img src="https://img.shields.io/twitter/follow/akashnkumar1?logo=twitter&style=for-the-badge" alt="akashnkumar1" /></a> </p>
 
 - 💼 I’m currently Working **Java, Rust, Spring Boot, Microservices, AWS, Apache Kafka**
 
 - 🌱 I’m currently Learning **Rust**
 
-- 📝 I regularly write articles on [datarefuel.blogspot.com](datarefuel.blogspot.com)
-
-- 👨🏻‍💻 Follow me on LeetCode [leetcode.com/akashnkumar](leetcode.com/akashnkumar1)
+- 👨🏻‍💻 Follow me on LeetCode [[leetcode.com/akashnkumar1](leetcode.com/akashnkumar1)](https://leetcode.com/u/akashnkumar1/)
 
 - 📫 How to reach me **akashnkumar1@gmail.com**
 
@@ -27,9 +23,5 @@
 <a href="https://www.leetcode.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashnkumar1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="akashnkumar1" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashnkumar1&show_icons=true&locale=en&layout=compact" alt="akashnkumar1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashnkumar1&show_icons=true&locale=en" alt="akashnkumar1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashnkumar1&" alt="akashnkumar1" /></p>
