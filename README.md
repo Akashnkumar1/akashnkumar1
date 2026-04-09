@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Learning **Rust**
 
-- 👨🏻‍💻 Follow me on LeetCode [[leetcode.com/akashnkumar1](leetcode.com/akashnkumar1)](https://leetcode.com/u/akashnkumar1/)
+- 👨🏻‍💻 Follow me on LeetCode [(leetcode.com/akashnkumar1)](https://leetcode.com/u/akashnkumar1/)
 
 - 📫 How to reach me **akashnkumar1@gmail.com**
 
