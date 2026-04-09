@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/akashnkumar1" target="blank"><img src="https://img.shields.io/twitter/follow/akashnkumar1?logo=twitter&style=for-the-badge" alt="akashnkumar1" /></a> </p>
 
-- 💼 I’m currently Working **Java, Spring Boot, Microservices, Apache Kafka**
+- 💼 I’m currently Working **Java, Rust, Spring Boot, Microservices, AWS, Apache Kafka**
 
-- 🌱 I’m currently Learning **Angular**
+- 🌱 I’m currently Learning **Rust**
 
 - 📝 I regularly write articles on [datarefuel.blogspot.com](datarefuel.blogspot.com)
+
+- 👨🏻‍💻 Follow me on LeetCode [leetcode.com/akashnkumar](leetcode.com/akashnkumar1)
 
 - 📫 How to reach me **akashnkumar1@gmail.com**
 
