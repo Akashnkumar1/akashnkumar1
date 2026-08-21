@@ -1,27 +1,77 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
+<h3 align="center">Backend Engineer | Building High-Scale Payment Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashnkumar1&label=Profile%20views&color=0e75b6&style=flat" alt="akashnkumar1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/akashnkumar1" target="blank"><img src="https://img.shields.io/twitter/follow/akashnkumar1?logo=twitter&style=for-the-badge" alt="akashnkumar1" /></a> </p>
-
-- 💼 I’m currently Working **Java, Rust, Spring Boot, Microservices, AWS, Apache Kafka**
-
-- 🌱 I’m currently Learning **Rust**
-
-- 👨🏻‍💻 Follow me on LeetCode [(leetcode.com/akashnkumar1)](https://leetcode.com/u/akashnkumar1/)
-
-- 📫 How to reach me **akashnkumar1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashnkumar1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashnkumar1" height="30" width="40" /></a>
-<a href="https://kaggle.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashnkumar1" height="30" width="40" /></a>
-<a href="https://fb.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashnkumar1" height="30" width="40" /></a>
-<a href="https://instagram.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashnkumar1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashnkumar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashnkumar1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/akashnkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="akashnkumar1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akashnkumar1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashnkumar1&" alt="akashnkumar1" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/akashnkumar1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/akashnkumar1">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://twitter.com/akashnkumar1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:akashnkumar1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **high-scale payment systems** at **PayU**
+- 🌱 Deep diving into **Rust** + building **own LLM experiments**
+- 👯 Looking to collaborate on **Backend, Microservices, Fintech & Distributed Systems**
+- 💬 Ask me about **Java, Spring Boot, Kafka, AWS, Rust, Microservices & Payment Architecture**
+- ⚡ Fun fact: Still get excited about clean architecture and real-time systems after 5+ years
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,aws,docker,kubernetes,linux,redis,postgres,mongodb,mysql,python,rust,git,jenkins,grafana,svelte" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Akashnkumar1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akashnkumar1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akashnkumar1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**hyredin-backend**](https://github.com/Akashnkumar1/hyredin-backend) | Recruiter platform backend (Axum + SQLx + Postgres + Meilisearch + Ollama) | Rust |
+| [**hyredin-mobile**](https://github.com/Akashnkumar1/hyredin-mobile) | Flutter mobile app (Android + iOS) for Hyredin | Dart / Flutter |
+| [**hyredin-web**](https://github.com/Akashnkumar1/hyredin-web) | Marketing site built with SvelteKit + Tailwind | Svelte |
+| [**hyperswitch-payu**](https://github.com/Akashnkumar1/hyperswitch-payu) | Payment systems related work (Hyperswitch / PayU) | Rust |
+| [**Vyomarudra**](https://github.com/Akashnkumar1/Vyomarudra) | Rust based project | Rust |
+| [**temprature-converter**](https://github.com/Akashnkumar1/temprature-converter) | Clean Rust temperature converter | Rust |
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out if you want to discuss **backend architecture**, **payment systems**, **Rust**, or just geek out about distributed systems!
+
+<p align="center">
+  <a href="https://linkedin.com/in/akashnkumar1">LinkedIn</a> •
+  <a href="https://leetcode.com/u/akashnkumar1">LeetCode</a> •
+  <a href="mailto:akashnkumar1@gmail.com">Email</a>
+</p>
